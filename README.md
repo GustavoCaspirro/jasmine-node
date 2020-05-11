@@ -68,4 +68,4 @@ $ npm i --save-dev karma-browserify
 
 ### TravisCI
 
-- Servidor de intregaçã continua (Open Source)
+- Servidor de intregação continua (Open Source)
