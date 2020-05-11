@@ -1,5 +1,7 @@
 # Aplicação Estudo Jasmine e Karma e TravisCI com NodeJS
 
+![N|Solid](assets/jkt.png)
+
 ## Sobre a Aplicação
 
 - Aplicação que realiza testes com jasmine
