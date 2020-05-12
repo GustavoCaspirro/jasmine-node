@@ -1,4 +1,4 @@
-# Aplicação Estudo Jasmine e Karma e TravisCI com NodeJS
+# Aplicação para estudo de Jasmine, Karma e TravisCI com NodeJS
 
 ![N|Solid](assets/jkt.png)
 
@@ -6,7 +6,7 @@
 
 - Aplicação que realiza testes com jasmine
 
-## Primeiros passos após clonar o projeto
+## Informações do projeto
 
 ### Verificar se possue node e npm instalados.
 
@@ -66,8 +66,8 @@ $ npm i --save-dev karma-browserify
 
 ### TBD - Trunk Based Development
 
-- Desenvolvimento comente na Trunk (direto para master).
+- Desenvolvimento somente na Trunk (direto para master).
 
 ### TravisCI
 
-- Servidor de intregação continua (Open Source)
+- Servidor de integração continua (Open Source).
