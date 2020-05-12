@@ -6,7 +6,7 @@
 
 ## Sobre a Aplicação
 
-- Aplicação que realiza testes com jasmine
+- Aplicação de testes com jasmine, karma e TravisCI para estudo.
 
 ## Informações do projeto
 
