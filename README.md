@@ -1,5 +1,7 @@
 # Aplicação para estudo de Jasmine, Karma e TravisCI com NodeJS
 
+[![Build Status](https://travis-ci.org/GustavoCaspirro/jasmine-node.svg?branch=master)](https://travis-ci.org/GustavoCaspirro/jasmine-node)
+
 ![N|Solid](assets/jkt.png)
 
 ## Sobre a Aplicação
